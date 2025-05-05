@@ -2,16 +2,16 @@
 The Vrinda Store seeks to develop a detailed 2022 sales report to better understand its customers and tailor its approach to increase sales in the coming years
 
 ## Questions (KPIs):
-1.Visualize and compare monthly sales and order volumes in a consolidated chart.<br>
-2.Identify the month with the highest sales revenue and maximum number of orders.<br>
-3.Compare total purchases made by male vs. female customers.<br>
-4.List and summarize the various order statuses recorded in 2022.<br>
-5.Rank the top-performing states based on overall sales in 2022.<br>
-6.Visualize how age and gender influence the number of orders placed.<br>
-7.Determine the top-performing sales channel in 2022.<br>
-8.Identify the most popular selling category based on revenue.<br>
-9.Calculate the percentage of total orders successfully delivered.<br>
-10.Dashboard Interaction
+- Visualize and compare monthly sales and order volumes in a consolidated chart.<br>
+- Identify the month with the highest sales revenue and maximum number of orders.<br>
+- Compare total purchases made by male vs. female customers.<br>
+- List and summarize the various order statuses recorded in 2022.<br>
+- Rank the top-performing states based on overall sales in 2022.<br>
+- Visualize how age and gender influence the number of orders placed.<br>
+- Determine the top-performing sales channel in 2022.<br>
+- Identify the most popular selling category based on revenue.<br>
+- Calculate the percentage of total orders successfully delivered.<br>
+- Dashboard Interaction
 
 ## Process Overview:
 - Performed thorough data validation to identify and address missing values and anomalies.<br>
